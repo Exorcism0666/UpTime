@@ -7,8 +7,6 @@ sites:
     url: https://wiki.tockdom.com
   - name: Redump
     url: http://redump.org/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Riiconnect24
     check: "tcp-ping"
     url: 167.86.108.126
