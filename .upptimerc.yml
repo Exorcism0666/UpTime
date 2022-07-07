@@ -11,6 +11,14 @@ sites:
     url: http://redump.org/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Riiconnect24
+    check: "tcp-ping"
+    url: 167.86.108.126
+    port: 53
+  - name: Wiimmfi
+    check: "tcp-ping"
+    url: 95.217.77.181
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
