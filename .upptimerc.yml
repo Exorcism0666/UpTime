@@ -25,6 +25,8 @@ sites:
     check: "tcp-ping"
     url: 18.188.135.9
     port: 53
+  - name: FlashHax
+    url: https://flashhax.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
