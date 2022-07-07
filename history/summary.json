@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 128,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 155,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 123,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "str2hax",
     "status": "down",
-    "uptime": "2.43%",
-    "uptimeDay": "2.43%",
-    "uptimeWeek": "2.43%",
-    "uptimeMonth": "2.43%",
-    "uptimeYear": "2.43%",
+    "uptime": "1.31%",
+    "uptimeDay": "1.31%",
+    "uptimeWeek": "1.31%",
+    "uptimeMonth": "1.31%",
+    "uptimeYear": "1.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-07": 51
+      "2022-07-07": 96
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "time": 144,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1,
-    "timeDay": 1,
-    "timeWeek": 1,
-    "timeMonth": 1,
-    "timeYear": 1,
+    "time": 3,
+    "timeDay": 3,
+    "timeWeek": 3,
+    "timeMonth": 3,
+    "timeYear": 3,
     "dailyMinutesDown": {}
   },
   {
@@ -143,6 +143,24 @@
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "4TU DNS",
+    "url": "45.55.142.122",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "4-tu-dns",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 12,
+    "timeDay": 12,
+    "timeWeek": 12,
+    "timeMonth": 12,
+    "timeYear": 12,
     "dailyMinutesDown": {}
   }
 ]
