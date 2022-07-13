@@ -19,6 +19,8 @@ sites:
     check: "tcp-ping"
     url: 45.55.142.122
     port: 53
+  - name: Secret Site
+    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
