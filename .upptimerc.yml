@@ -15,10 +15,6 @@ sites:
     check: "tcp-ping"
     url: 164.132.44.106
     port: 53
-  - name: str2hax
-    check: "tcp-ping"
-    url: 18.188.135.9
-    port: 53
   - name: FlashHax
     url: https://flashhax.com/
   - name: Loadiine
