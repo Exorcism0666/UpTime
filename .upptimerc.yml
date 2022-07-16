@@ -19,6 +19,14 @@ sites:
     check: "tcp-ping"
     url: 45.55.142.122
     port: 53
+  - name: CloudFlare
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
+  - name: Google
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
